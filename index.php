@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html>
-
 	<head>
 		<meta charset="utf-8"/>
 		<title>About Michael Romero</title>
-		<link href="style.css" type="text/css" rel="stylesheet">
+		<link href="style/style.css" type="text/css" rel="stylesheet">
 	</head>
 	<body>
-      <h1>Michael Romero</h1>
+		<h1>Michael Romero</h1>
 		<h2>Who am I?</h2>
 		<p>I am a lot of different things but like you I am human.
 			I like to play and listen to music, read and learn about philosophy, and film. I also really like computers!
 		</p>
-		<img src="images/spock.jpg" alt="Mirror Universe Spock" width="300" height="300">
-
+		<img src="images/spock.jpg" alt="Mirror Universe Spock" width="300px" height="300px">
 </html>
