@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="66bfd381-a3a1-4491-a0a0-44e731ebadc2" name="aboutmichaelromero" url="https://bootcamp-coders.cnm.edu/~mromero308/aboutmichaelromero/">
-        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/mromero308/public_html/aboutmichaelromero" accessType="SFTP" keyPair="true">
+      <webServer id="66bfd381-a3a1-4491-a0a0-44e731ebadc2" name="aboutmichaelromero" url="https://bootcamp-coders.cnm.edu/~tpurnell/aboutmichaelromero/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" privateKey="C:\Users\Tanisha Purnell\Desktop\bootcamp\ssh-key.openssh" rootFolder="/home/tpurnell/public_html/aboutmichaelromero" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

@@ -3,13 +3,15 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>About Michael Romero</title>
-		<link href="style/style.css" type="text/css" rel="stylesheet">
+		<link rel="stylesheet" href="./styles/style.css">
 	</head>
 	<body>
-		<h1>Michael Romero</h1>
+		<h1>IM OICKLE RICK B***H</h1>
+		<img src="images/spock.jpg" alt="Mirror Universe Spock" width="300" height="300">
 		<h2>Who am I?</h2>
 		<p>I am a lot of different things but like you I am human.
 			I like to play and listen to music, read and learn about philosophy, and film. I also really like computers!
 		</p>
-		<img src="images/spock.jpg" alt="Mirror Universe Spock" width="300px" height="300px">
+		<p>So like I (tanisha) only fixed file and syntax issues because im boring and not creative like previous peers</p>
+	</body>
 </html>
